@@ -32,7 +32,7 @@ To get the project running on your local machine, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Sachin00028/SnakeGame-AI.git](https://github.com/Sachin00028/SnakeGame-AI.git)
+    git clone [https://github.com/Sacihn00028/SnakeGame-AI.git](https://github.com/Sacihn00028/SnakeGame-AI.git)
     cd SnakeGame-AI
     ```
 
